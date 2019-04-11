@@ -1,4 +1,4 @@
-package main
+package easy
 
 func main() {
 	A:= []int {1,19,4,5,6,3}
